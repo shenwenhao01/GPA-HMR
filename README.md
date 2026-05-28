@@ -15,4 +15,6 @@
 
 <strong><a href='https://openaccess.thecvf.com/content/CVPR2026/papers/Shen_VLM-Guided_Group_Preference_Alignment_for_Diffusion-based_Human_Mesh_Recovery_CVPR_2026_paper.pdf' target='_blank'>CVPR 2026</a></strong>
 
+</div>
+
 🚀 Code coming soon! Please stay tuned.
