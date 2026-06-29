@@ -1,0 +1,20 @@
+*.pyc
+*.npy
+*.jpg
+*.zip
+*.obj
+*.deb
+*.pkl
+*.log
+__pycache__
+version.py
+version.txt.1
+# /.vscode
+/.eggs
+*.DS_Store
+experiment/
+data/
+model/
+input/
+output/
+VirtualPose/
